@@ -1,0 +1,153 @@
+.img1{
+height: 80px;
+margin-left: 20px;
+}
+
+.facebook{
+
+   transition: .4s;
+}
+.facebook:hover{
+    color: blue;
+    transform: scale(1.4);
+}
+.twitter{
+    color: brown;
+    transition: .3s;
+}
+.twitter:hover{
+    transform: scale(1.4);
+    color: black;
+}
+.instagram{
+    color: aqua;
+transition: .3s;
+}
+.instagram:hover{
+transform: scale(1.4);
+color: red;
+
+}
+.podcast{
+transition: .3s;
+}
+.podcast:hover{
+transform: scale(1.4);
+}
+.icon{
+   padding-left: 500px;
+}
+.home{
+    background-color: blue;
+    color: white;
+    transition: .3s;
+    padding: 10px;
+}
+.home:hover{
+    color: aliceblue;
+    transform: scale(.8);
+    border-radius: 10px;
+}
+.don{
+    background-color: red;
+    color: aliceblue;
+    transition: .3s;
+}
+.don:hover{
+    color: aliceblue;
+    transform: scale(.8);
+    border-radius: 10px;
+}
+/*main opan*/
+main{
+background-image: url(img2.webp);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+height: 100vh;
+
+}
+.main-head{
+padding-top: 80px;
+padding-left: 200px;
+}
+.main-head h3{
+    color:black;
+    font-size: 50px;
+}
+.feather:hover{
+  
+    background-color:darkgrey;
+}
+.hh{
+    text-align: center;
+    padding-top: 20px;
+float: left;
+}
+.bio{
+    float: left;
+    padding-left: 10px;
+}
+.who{
+   
+    color: brown;
+    text-align: center;
+}
+.what{
+    text-align:center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.aa{
+    text-align: center;
+}
+.main2-bio{
+    padding: 10px;
+    text-align: center;
+    border: 2px solid darkgray;
+}
+.sars{
+    width: 300px;
+}
+
+.main-bio{
+    position: absolute;
+    height: 20px;
+background-color: blueviolet;
+top: 150px;
+z-index: 1;
+left: 180px;
+}
+.main2a-bio{
+    border: 1px solid darkgray;
+}
+.kasib p{
+    color: darkgrey;
+}
+.markap{
+    padding: 20px;
+    border: 1px solid black;
+}
+.hr{
+    position: absolute;
+    width: 200px;
+    top: 60px;
+}
+.imh{
+    height: 200px;
+}
+.pa{
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.img{
+height: 120px;
+
+}
+.lll{
+    padding: 20px;
+    padding-left: 10px;
+}
+.local{
+    background-color: blue;
+}
